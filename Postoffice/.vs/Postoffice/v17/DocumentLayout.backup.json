@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\postoffice_casestudy\\Postoffice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\editpostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\editpostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|c:\\postoffice_casestudy\\postoffice\\postoffice\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\addpostofficerecord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\addpostofficerecord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\addpostofficerecord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\addpostofficerecord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\detailspostoffice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\detailspostoffice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\editpostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\editpostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\editpostofficedetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\editpostofficedetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\postofficedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\postofficedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\deletepostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\deletepostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\deletepostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\deletepostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\detailspostoffice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\detailspostoffice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|C:\\postoffice_casestudy\\Postoffice\\postoffice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FAEE0B02-1674-4A60-B613-DC2F5A69552F}|Postoffice\\Postoffice.csproj|solutionrelative:postoffice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Site.Master",
+              "RelativeDocumentMoniker": "Postoffice\\Site.Master",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Site.Master",
+              "RelativeToolTip": "Postoffice\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T06:29:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeletePostOfficeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DeletePostOfficeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Postoffice\\DeletePostOfficeDetails.aspx.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DeletePostOfficeDetails.aspx.cs",
+              "RelativeToolTip": "Postoffice\\DeletePostOfficeDetails.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:25:29.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditPostOfficeDetails.aspx.designer.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\EditPostOfficeDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Postoffice\\EditPostOfficeDetails.aspx.designer.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\EditPostOfficeDetails.aspx.designer.cs",
+              "RelativeToolTip": "Postoffice\\EditPostOfficeDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:10:01.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditPostOfficeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\EditPostOfficeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Postoffice\\EditPostOfficeDetails.aspx.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\EditPostOfficeDetails.aspx.cs",
+              "RelativeToolTip": "Postoffice\\EditPostOfficeDetails.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:07:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetailsPostOffice.aspx.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DetailsPostOffice.aspx.cs",
+              "RelativeDocumentMoniker": "Postoffice\\DetailsPostOffice.aspx.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DetailsPostOffice.aspx.cs",
+              "RelativeToolTip": "Postoffice\\DetailsPostOffice.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:00:41.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeletePostOfficeDetails.aspx",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DeletePostOfficeDetails.aspx",
+              "RelativeDocumentMoniker": "Postoffice\\DeletePostOfficeDetails.aspx",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DeletePostOfficeDetails.aspx",
+              "RelativeToolTip": "Postoffice\\DeletePostOfficeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T05:57:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditPostOfficeDetails.aspx",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\EditPostOfficeDetails.aspx",
+              "RelativeDocumentMoniker": "Postoffice\\EditPostOfficeDetails.aspx",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\EditPostOfficeDetails.aspx",
+              "RelativeToolTip": "Postoffice\\EditPostOfficeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T05:57:34.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailsPostOffice.aspx",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DetailsPostOffice.aspx",
+              "RelativeDocumentMoniker": "Postoffice\\DetailsPostOffice.aspx",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\DetailsPostOffice.aspx",
+              "RelativeToolTip": "Postoffice\\DetailsPostOffice.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T05:57:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPostOfficeRecord.aspx.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\AddPostOfficeRecord.aspx.cs",
+              "RelativeDocumentMoniker": "Postoffice\\AddPostOfficeRecord.aspx.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\AddPostOfficeRecord.aspx.cs",
+              "RelativeToolTip": "Postoffice\\AddPostOfficeRecord.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:51:44.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPostOfficeRecord.aspx",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\AddPostOfficeRecord.aspx",
+              "RelativeDocumentMoniker": "Postoffice\\AddPostOfficeRecord.aspx",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\AddPostOfficeRecord.aspx",
+              "RelativeToolTip": "Postoffice\\AddPostOfficeRecord.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T05:49:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostOfficeDataAccess.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\PostOfficeDataAccess.cs",
+              "RelativeDocumentMoniker": "Postoffice\\PostOfficeDataAccess.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\PostOfficeDataAccess.cs",
+              "RelativeToolTip": "Postoffice\\PostOfficeDataAccess.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:41:43.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Postoffice\\Default.aspx.cs",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Default.aspx.cs",
+              "RelativeToolTip": "Postoffice\\Default.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:40:23.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Default.aspx",
+              "RelativeDocumentMoniker": "Postoffice\\Default.aspx",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Default.aspx",
+              "RelativeToolTip": "Postoffice\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T05:34:47.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Web.config",
+              "RelativeDocumentMoniker": "Postoffice\\Web.config",
+              "ToolTip": "C:\\postoffice_casestudy\\Postoffice\\Postoffice\\Web.config",
+              "RelativeToolTip": "Postoffice\\Web.config",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T05:32:42.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

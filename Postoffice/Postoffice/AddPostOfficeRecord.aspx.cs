@@ -16,18 +16,28 @@ namespace Postoffice
 
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
-            PostOfficeDataAccess dataAccess = new PostOfficeDataAccess();
-            dataAccess.InsertPostOfficeRecord(
-                txtFirstName.Text,
-                txtLastName.Text,
-                txtAddress.Text,
-                txtSchemeName.Text,
-                decimal.Parse(txtBalance.Text),
-                int.Parse(txtNoOfYears.Text),
-                txtMobile.Text
-            );
-            Response.Redirect("Default.aspx");
+            try
+            {
+                // Your existing data submission logic
+                PostOfficeDataAccess dataAccess = new PostOfficeDataAccess();
+                dataAccess.InsertPostOfficeRecord(
+                    txtFirstName.Text,
+                    txtLastName.Text,
+                    txtAddress.Text,
+                    txtSchemeName.Text,
+                    decimal.Parse(txtBalance.Text),
+                    int.Parse(txtNoOfYears.Text),
+                    txtMobile.Text
+                );
+                Response.Redirect("Default.aspx");
+            }
+            catch (Exception ex)
+            {
+                // Show an error message if something goes wrong
+                ClientScript.RegisterStartupScript(this.GetType(), "Error", $"alert('Error: {ex.Message.Replace("'", "\\'")}');", true);
+            }
         }
+
 
     }
 }
